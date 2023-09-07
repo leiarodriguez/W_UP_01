@@ -21,6 +21,10 @@ mydata <- read.csv(file="pushups.csv")
 
 <!--In this section you explain what you are trying to show. Where did the data come from? What is the research or other question you are trying to answer?!-->
 
+the question is there differences between the average number of pushups that can be done in two minutes between skilled and line players
+the data came from george town college in kentucky.
+
+
 Create an Rstudio project in your shared space on rstudio.cloud.  Using the dataset called pushups from the tigerstats package in R; answer the question posed by this null and alternate hypothesis in an html markdown document.
 
 is there a difference between avreage number of pushups that can be done by line vs skills? 
